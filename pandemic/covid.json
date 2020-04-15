@@ -1,0 +1,23 @@
+[
+    {
+        "domain": "West Bengal",
+        "Confirmed": 213,
+        "Active": 176,
+        "Recovered": 37,
+        "Deaths": 7
+    },
+    {
+        "domain": "India",
+        "Confirmed": 11933,
+        "Active": 10589,
+        "Recovered": 1344,
+        "Deaths": 392
+    },
+    {
+        "domain": "Worldwide",
+        "Confirmed": 1999628,
+        "Active": 1498632,
+        "Recovered": 500996,
+        "Deaths": 128011
+    }
+]
