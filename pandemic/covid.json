@@ -1,23 +1,23 @@
 [
     {
         "domain": "West Bengal",
-        "Confirmed": 217,
-        "Active": 176,
-        "Recovered": 37,
+        "Confirmed": 231,
+        "Active": 182,
+        "Recovered": 42,
         "Deaths": 7
     },
     {
         "domain": "India",
-        "Confirmed": 11933,
-        "Active": 10589,
-        "Recovered": 1344,
-        "Deaths": 392
+        "Confirmed": 12456,
+        "Active": 10512,
+        "Recovered": 1513,
+        "Deaths": 422
     },
     {
         "domain": "Worldwide",
-        "Confirmed": 1999628,
-        "Active": 1498632,
-        "Recovered": 500996,
-        "Deaths": 128011
+        "Confirmed": 2063161,
+        "Active": 1551129,
+        "Recovered": 512032,
+        "Deaths": 136938
     }
 ]
